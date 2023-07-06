@@ -1,9 +1,9 @@
-# KATA NAME
+# Growth of a Population
 
-XXXX A short description XXXXXX
+This is a simple program that calculates the number of years it takes for a small town's population to reach a desired threshold.
 
 
-[XX KATA NAME FOR THE LINK](LINK)
+[Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 
 ## Prerequisites
 

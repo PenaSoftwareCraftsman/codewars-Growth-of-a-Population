@@ -1,0 +1,28 @@
+{
+  "name": "codewars-Growth-of-a-Population",
+  "version": "1.0.0",
+  "description": "XXXX A short description XXXXXX",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenaSoftwareCraftsman/codewars-Growth-of-a-Population.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PenaSoftwareCraftsman/codewars-Growth-of-a-Population/issues"
+  },
+  "homepage": "https://github.com/PenaSoftwareCraftsman/codewars-Growth-of-a-Population#readme",
+  "dependencies": {
+    "jest": "^29.6.0"
+  }
+}
