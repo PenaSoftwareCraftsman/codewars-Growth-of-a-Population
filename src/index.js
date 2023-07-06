@@ -12,6 +12,8 @@ const increase_population = (population, percentage, plus) =>{
     return population_increased;
 }
 
+
+
 module.exports = {
     increase_population_percentage,
     increase_population

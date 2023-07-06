@@ -36,5 +36,8 @@ TODO:
 -TEST
     - Should return the population increased by 2 percent when a population and 2 as percentage are sended ✅
     - Should return the population increased by 2 percent plus 50 when a population, 2 percent and 50 are sended ✅
+    - Should return 0 to "number of years nedded passed" when the number of population passed is greater than the population needed 🚧
 
-    - Should return when 0 when the number of years nedded passed are smaller than number of the population passed🚧
+# Pomodoro 2 🍅:
+- TEST
+    - Should return 0 to "number of years nedded passed" when the number of population passed is greater than the population needed 🚧
