@@ -42,3 +42,4 @@ TODO:
 - TEST
     - Should return 0 to "number of years nedded passed" when the number of population passed is greater than the population needed ✅
     - Should return 0 to "number of years nedded passed" when the number of population passed are equal the population needed ✅
+    - Should return 1 to "number of years needed passed" when at the fist increase, pass the population needed ✅

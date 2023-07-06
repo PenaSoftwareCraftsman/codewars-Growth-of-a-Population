@@ -14,8 +14,12 @@ describe('Number of year neded', () => {
     it('Should return 0 to "number of years nedded passed" when the number of population passed is greater than the population needed', () => {
         expect(nb_years(1000, 2, 100, 999)).toBe("It will need 0 entire years.");
     });
-    
+
     it('Should return 0 to "number of years nedded passed" when the number of population passed are equal the population needed', () => {
         expect(nb_years(1000, 2, 100, 999)).toBe("It will need 0 entire years.");
+    });
+
+    it('Should return 1 to "number of years needed passed" when at the fist increase, pass the population needed', () => {
+        expect(nb_years(1000, 2, 100, 1100)).toBe("It will need 1 entire years.");
     });
 });
