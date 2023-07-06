@@ -1,4 +1,4 @@
-const {increase_population, increase_population_percentage} = require('./../src/index');
+const {increase_population, increase_population_percentage, nb_years} = require('./../src/index');
 
 describe('Growth the Population', () => {
     it('Should return when 0 when the number of years nedded passed are smaller than number of the population passed', () => {

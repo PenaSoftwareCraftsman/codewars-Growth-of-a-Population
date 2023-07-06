@@ -40,4 +40,4 @@ TODO:
 
 # Pomodoro 2 🍅:
 - TEST
-    - Should return 0 to "number of years nedded passed" when the number of population passed is greater than the population needed 🚧
+    - Should return 0 to "number of years nedded passed" when the number of population passed is greater than the population needed ✅
