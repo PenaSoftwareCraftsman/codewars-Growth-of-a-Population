@@ -35,4 +35,6 @@ TODO:
 
 -TEST
     - Should return the population increased by 2 percent when a population and 2 as percentage are sended ✅
-    - Should return when 0 when the number of years nedded passed are smaller than number of the population passed
+    - Should return the population increased by 2 percent plus 50 when a population, 2 percent and 50 are sended ✅
+
+    - Should return when 0 when the number of years nedded passed are smaller than number of the population passed🚧
